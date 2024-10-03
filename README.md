@@ -8,8 +8,8 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 - Graduated from **Indian Institute of Technology Ropar** in 2022.
 - Passionate about Quantitative Finance.
 
-<h2 align="center">My Resume</h2>
-<p align="center">
+<h2>My Resume</h2>
+<p>
   <a href="https://drive.google.com/file/d/1w6KKskT-C79OmC1KCBce9ZJKVnSLKl21/view?usp=sharing" target="_blank">
     Click here to view my resume
   </a>
