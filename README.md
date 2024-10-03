@@ -11,6 +11,13 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 
 <h2 align="center">My Resume</h2>
 <p align="center">
+  <a href="https://drive.google.com/file/d/1w6KKskT-C79OmC1KCBce9ZJKVnSLKl21/view?usp=sharing" target="_blank">
+    Click here to view my resume
+  </a>
+</p>
+
+<h2 align="center">My Resume</h2>
+<p align="center">
   <iframe src="https://drive.google.com/uc?export=download&id=1w6KKskT-C79OmC1KCBce9ZJKVnSLKl21" width="600" height="780" allow="autoplay"></iframe>
 </p>
 
