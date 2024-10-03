@@ -6,6 +6,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
 - Software Engineer at **Dassault Systemes**.
+- Graduated from **Indian Institute of Technology Ropar** in 2022.
 - Passionate about Quantitative Finance.
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
