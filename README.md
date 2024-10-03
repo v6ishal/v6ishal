@@ -2,6 +2,12 @@
 
 I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I am a Engineering Graduate from Indian Institute of Technology Ropar.
 
+<h2 align="center">My Resume</h2>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1w6KKskT-C79OmC1KCBce9ZJKVnSLKl21/view?usp=sharing" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" width="50px" title="Click to view my resume"/>
+  </a>
+</p>
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
