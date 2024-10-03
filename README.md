@@ -1,4 +1,4 @@
-<h1 align = "center"> Ciao, I'm Vishal! </h1>
+<h1 align = "center"> Bonjour, I'm Vishal! </h1>
 
 I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I am a Engineering Graduate from Indian Institute of Technology Ropar.
 
