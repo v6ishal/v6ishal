@@ -10,7 +10,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 
 ## <img src="https://media.giphy.com/media/rVZYvzv5ZjOCHFXvni/giphy.gif" width="42px"> My Resume:
 <p>
-  <a href="https://drive.google.com/file/d/1w6KKskT-C79OmC1KCBce9ZJKVnSLKl21/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/Ej4kpF9UjH6FkD4wkv/view?usp=sharing" target="_blank">
     Click here to view my resume
   </a>
 </p>
