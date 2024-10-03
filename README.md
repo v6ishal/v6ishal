@@ -26,12 +26,6 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <code> <a href="https://leetcode.com/2018meb1274"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" title="LeetCode Profile"/></a> </code>
 
 
-<!-- <a href="https://www.codechef.com/users/saumyasingh203/">![CodeChef Badge](https://cp-logo.vercel.app/codechef/saumyasingh203?logo=true) </a>
-<a href="https://codeforces.com/profile/saumya_singh203">![CodeForces Badge](https://cp-logo.vercel.app/codeforces/saumya_singh203?logo=true) </a>
-<a href="https://leetcode.com/saumyasingh203/">![LeetCode Badge](https://cp-logo.vercel.app/leetcode/saumyasingh203?logo=true)</a> -->
-
- 
-
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
 <code><a href="https://www.linkedin.com/in/v6ishal/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="mailto:vishaliitrpr@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
