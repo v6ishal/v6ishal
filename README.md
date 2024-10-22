@@ -6,7 +6,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 
 - Software Engineer at **Dassault Systemes**.
 - Graduated from **Indian Institute of Technology Ropar** in 2022.
-- Passionate about Quantitative Finance.
+- Passionate about Software Development and Quantitative Finance.
 
 ## <img src="https://media.giphy.com/media/rVZYvzv5ZjOCHFXvni/giphy.gif" width="42px"> My Resume:
 <p>
