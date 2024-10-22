@@ -10,7 +10,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 
 ## <img src="https://media.giphy.com/media/rVZYvzv5ZjOCHFXvni/giphy.gif" width="42px"> My Resume:
 <p>
-  <a href="https://drive.google.com/file/d/1w6KKskT-C79OmC1KCBce9ZJKVnSLKl21/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1ol1fSDpC20pTj1RZeE98MV--oLpOH4Ww/view?usp=sharing" target="_blank">
     Click here to view my resume
   </a>
 </p>
@@ -19,6 +19,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
